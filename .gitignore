@@ -1,0 +1,10 @@
+*.*#
+*.*~
+*.out
+local.properties
+default.properties
+.classpath
+.project
+.settings
+bin/
+gen/
